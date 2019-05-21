@@ -49,8 +49,11 @@ quanguo.json
 *.json
 topojson 格式轮廓信息，带 bbox。
 
+*_xian.json
+topojson 格式，各省县一级信息
+
 *_Line.geojson
-标准线位置和文本
+名词汉字标注基线位置和文本
 
 *_Point.geojson
 首都，首府信息及标注
